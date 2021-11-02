@@ -1,7 +1,6 @@
 // Conveniently import this file anywhere to use db
 
 import firebase from 'firebase'
-import 'firebase/firestore'
 import { ref, onUnmounted } from 'vue'
 
 
